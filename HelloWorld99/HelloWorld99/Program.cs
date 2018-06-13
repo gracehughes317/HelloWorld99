@@ -10,6 +10,7 @@ namespace HelloWorld99
             Console.WriteLine("Eric Chen");
             Console.WriteLine("Pranay Reddy");
             Console.WriteLine("Leo Brunette");
+            Console.WriteLine("Grace hughes");
             Console.ReadKey();
         }
     }
