@@ -8,6 +8,7 @@ namespace HelloWorld99
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("David Schulz");
+            Console.WriteLine("Eric Chen");  
             Console.ReadKey();
         }
     }
